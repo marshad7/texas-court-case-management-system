@@ -1,0 +1,634 @@
+id,judge_id,court_id,judge,court,,,,name,judges_id,,id,district,county
+,427,,Honorable S. Craig Smith,5th Court of Appeals,,,,Honorable Andrea Stroh Thompson,1,,1,416th District Court,Collin
+,428,,Honorable Gerald L. '(Jerry)' Zimmerer,14th Court of Appeals,,,,Honorable Michelle Moore,2,,2,314th District Court,Harris
+,429,,Honorable Tracy K. Christopher,14th Court of Appeals,,,,Honorable Sonya Heath,3,,3,310th District Court,Harris
+,430,,Honorable Aaron Pena,13th Court of Appeals,,,,Honorable Deeanne Scoboda Galvan,4,,4,County Court at Law No 3,Nueces
+,431,,Honorable Veronica Rivas-Molloy,1st Court of Appeals,,,,Honorable Jeffrey A. Shadwick,5,,5,55th District Court,Harris
+,432,,Honorable Emily Miskel,5th Court of Appeals,,,,Honorable Jill Renfro Willis,6,,6,429th District Court,Collin
+,433,,Honorable April Lynn Farris,1st Court of Appeals,,,,Honorable Tanya Garrison,7,,7,157th District Court,Harris
+,434,,Honorable Meagan Hassan,14th Court of Appeals,,,,Honorable Donna Roth,8,,8,295th District Court,Harris
+,381,,Honorable Bonnie Lee Goldstein,5th Court of Appeals,,,,Honorable Sally Lundberg Montgomery,9,,9,County Court at Law No 3,Dallas
+,436,,Honorable Gregory W. Neeley,12th Court of Appeals,,,,Honorable Clay White,10,,10,County Court at Law No 3,Smith
+,28,,Honorable Maricela Breedlove,5th Court of Appeals,,,,Honorable Tonya Parker,11,,11,116th District Court,Dallas
+,438,,Honorable Brian P. Quinn,7th Court of Appeals,,,,Honorable Jan Soifer,12,,12,459th District Court,Travis
+,439,,Honorable Chari Kelly,3rd Court of Appeals,,,,Honorable J. Brad McCampbell,13,,13,402nd District Court,Wood
+,440,,Honorable Dabney Dorsett Bassel,2nd Court of Appeals,,,,Honorable Guy S. Herman,14,,14,Probate Court No 1,Travis
+,441,,Honorable J. Wade Birdwell,2nd Court of Appeals,,,,Honorable J. Allan Garrett,15,,15,33rd District Court,Blanco
+,442,,Honorable John M. Bailey,11th Court of Appeals,,,,Honorable James Benjamin Munford,16,,16,322nd District Court,Tarrant
+,443,,Honorable Edward Stuart Smith,3rd Court of Appeals,,,,Honorable Pat Gallagher,17,,17,96th District Court,Tarrant
+,72,,Honorable Steven Lee Smith,10th Court of Appeals,,,,Honorable Tameika Carter,18,,18,400th District Court,Fort Bend
+,445,,Honorable Gisela Triana,3rd Court of Appeals,,,,Honorable Timothy D. Yeats,19,,19,118th District Court,Martin
+,446,,Honorable Cory Lee Carlyle,5th Court of Appeals,,,,Honorable Maya Guerra Gamble,20,,20,53rd District Court,Travis
+,447,,Honorable Dana Womack,2nd Court of Appeals,,,,Honorable Hal R. Ridley,21,,21,278th District Court,Leon
+,448,,Honorable Robbie Partida-Kipness,5th Court of Appeals,,,,Honorable Brandy Hallford,22,,22,County Court at Law No 1,Williamson
+,449,,Honorable Yvonne Rodriguez,8th Court of Appeals,,,,Honorable Carry A. Baker,23,,23,108th District Court,Potter
+,450,,Honorable Nancy Elizabeth Kennedy,5th Court of Appeals,,,,Honorable Emily G. Tobolowsky,24,,24,298th District Court,Dallas
+,451,,Honorable Kenneth H. Molberg,5th Court of Appeals,,,,Honorable Aiesha Redmond,25,,25,160th District Court,Dallas
+,452,,Honorable Amanda Lea Reichek,5th Court of Appeals,,,,Honorable John (Mike) M. Swanson,26,,26,143rd District Court,Loving
+,453,,Honorable Erin A. Nowell,5th Court of Appeals,,,,Honorable Ashley Elizabeth Wysocki,27,,27,162nd District Court,Dallas
+,454,,Honorable Bonnie Sudderth,2nd Court of Appeals,,,,Honorable Maricela Breedlove,28,,28,99th District Court,Lubbock
+,455,,Honorable W. Scott Golemon,9th Court of Appeals,,,,Honorable Edward Self,29,,29,13th District Court,Navarro
+,456,,Honorable Clarissa Silva,13th Court of Appeals,,,,Honorable James Edward Lagomarsino,30,,30,17th District Court,Tarrant
+,457,,Honorable Per Curiam,12th Court of Appeals,,,,Honorable Melody Wilkinson,31,,31,Tyler County Court,Tyler
+,458,,Honorable Judy Crowder Parker,7th Court of Appeals,,,,Honorable Kathleen S. Stone,32,,32,192nd District Court,Dallas
+,459,,Honorable Brian Keith Walker,2nd Court of Appeals,,,,Honorable Kristina M. Williams,33,,33,County Court at Law No 4,Dallas
+,460,,Honorable Scott  E. Stevens,6th Court of Appeals,,,,Honorable Paula Rosales,34,,34,County Court at Law No 4,Nueces
+,461,,Honorable William Norman Pedersen,5th Court of Appeals,,,,Honorable Mark H. Woerner,35,,35,Van Zandt County Court,Van Zandt
+,457,,Honorable Per Curiam,14th Court of Appeals,,,,Honorable Joshua Z. Wintters,36,,36,155th District Court,Fayette
+,462,,Honorable William Stacy Trotter,11th Court of Appeals,,,,Honorable Jeff Steinhauser,37,,37,431st District Court,Denton
+,457,,Honorable Per Curiam,2nd Court of Appeals,,,,Honorable Jim S. Johnson,38,,38,101st District Court,Dallas
+,414,,Honorable Matthew E. Johnson,10th Court of Appeals,,,,Honorable Amy Mccorkle Smith,39,,39,219th District Court,Collin
+,457,,Honorable Per Curiam,1st Court of Appeals,,,,Honorable Staci Williams,40,,40,134th District Court,Dallas
+,464,,Honorable D. Michael Wallach,2nd Court of Appeals,,,,Honorable Jennifer Edgeworth,41,,41,270th District Court,Harris
+,465,,Honorable Tom W. Gray,10th Court of Appeals,,,,Honorable Dale B. Tillery,42,,42,County Court at Law No 2,Ector
+,466,,Honorable Charles Spain,14th Court of Appeals,,,,Honorable Dedra Davis,43,,43,348th District Court,Tarrant
+,467,,Honorable Rosa Lopez Theofanis,3rd Court of Appeals,,,,Honorable Christopher Michael Clark,44,,44,261st District Court,Travis
+,468,,Honorable Dori Contreras,13th Court of Appeals,,,,Honorable Megan Jo Berger Fahey,45,,45,Probate Court,Dallas
+,469,,Honorable Lawrence M. Doss,7th Court of Appeals,,,,Honorable Daniella Deseta Lyttle,46,,46,365th District Court,Zavala
+,470,,Honorable Daymon Jeffrey Rambin,6th Court of Appeals,,,,Honorable Julia Malveaux,47,,47,41st District Court,El Paso
+,471,,Honorable Charles Van Cleef,6th Court of Appeals,,,,"Honorable Amado J. Abascal, III",48,,48,231st District Court,Tarrant
+,472,,Honorable Beth Watkins,4th Court of Appeals,,,,Honorable Annabel Perez,49,,49,272nd District Court,Brazos
+,473,,"Honorable Margaret ""Meg"" Poissant",14th Court of Appeals,,,,Honorable Jesus E. Nevarez,50,,50,149th District Court,Brazoria
+,474,,Honorable Sarah Beth Landau,1st Court of Appeals,,,,Honorable John Brick,51,,51,353rd District Court,Travis
+,475,,Honorable Alex L Yarbrough,7th Court of Appeals,,,,Honorable Terri Tipton Holder,52,,52,271st District Court,Wise
+,476,,Honorable Elizabeth Sturdivant Kerr,2nd Court of Appeals,,,,Honorable Jessica Lauren Mangrum,53,,53,326th District Court,Taylor
+,477,,Honorable Luz Elena D Chapa,4th Court of Appeals,,,,Honorable Brock R. Smith,54,,54,319th District Court,Nueces
+,478,,Honorable Jim Wright,10th Court of Appeals,,,,Honorable Paul R. Rotenberry,55,,55,97th District Court,Montague
+,479,,Honorable Randy Wilson,14th Court of Appeals,,,,Honorable David V. Stith,56,,56,126th District Court,Travis
+,480,,Honorable Leanne Johnson,9th Court of Appeals,,,,Honorable Jack A. McGaughey,57,,57,14th District Court,Dallas
+,481,,Honorable W. Bruce Williams,11th Court of Appeals,,,,Honorable Eric Moye,58,,58,21st District Court,Bastrop
+,482,,Honorable Frances Bourliot,14th Court of Appeals,,,,Honorable Carson Campbell,59,,59,11th District Court,Harris
+,483,,Honorable Lisa J. Soto,8th Court of Appeals,,,,Honorable Kristin Brauchle Hawkins,60,,60,County Court at Law,Parker
+,484,,Honorable Jaime Eduardo Tijerina,13th Court of Appeals,,,,Honorable Jerry Buckner,61,,61,County Court at Law,Rusk
+,485,,Honorable Kathleene Dennise Garcia,5th Court of Appeals,,,,Honorable Chad W. Dean,62,,62,County Court at Law,Kerr
+,486,,Honorable Lori Irene Valenzuela,4th Court of Appeals,,,,Honorable Susan F. Harris,63,,63,95th District Court,Dallas
+,487,,Honorable Nora L. Longoria,13th Court of Appeals,,,,Honorable MONICA MCCOY PURDY,64,,64,129th District Court,Harris
+,488,,Honorable Thomas John Baker,3rd Court of Appeals,,,,Honorable Michael Paul Gomez,65,,65,344th District Court,Chambers
+,489,,Honorable Irene Rios,4th Court of Appeals,,,,Honorable Randy McDonald,66,,66,County Civil Court at Law No 4,Harris
+,490,,Honorable Amparo Monique Guerra,1st Court of Appeals,,,,Honorable Manpreet Monica Singh,67,,67,360th District Court,Tarrant
+,491,,Honorable Richard F. Hightower,1st Court of Appeals,,,,Honorable Patricia Bennett,68,,68,137th District Court,Lubbock
+,492,,Honorable Peter Michael Kelly,1st Court of Appeals,,,,Honorable John Jackson McClendon,69,,69,323rd District Court,Tarrant
+,493,,Honorable Liza Ann Rodriguez,4th Court of Appeals,,,,Honorable Alexander Han Joong Kim,70,,70,25th District Court,Guadalupe
+,494,,Honorable Kenneth Price Wise,14th Court of Appeals,,,,Honorable Jessica Crawford,71,,71,361st District Court,Brazos
+,495,,Honorable Kevin D. Jewell,14th Court of Appeals,,,,Honorable Steven Lee Smith,72,,72,281st District Court,Harris
+,496,,Honorable Nora Longoria,13th Court of Appeals,,,,Honorable Christine Weems,73,,73,313th District Court,Harris
+,497,,Honorable Julie Countiss,1st Court of Appeals,,,,Honorable Natalia Oakes,74,,74,457th District Court,Montgomery
+,498,,Honorable Darlene Byrne,3rd Court of Appeals,,,,Honorable Vincenzo Santini,75,,75,448th District Court,El Paso
+,499,,Honorable Jay M. Wright,9th Court of Appeals,,,,Honorable Sergio H. Enriquez,76,,76,118th District Court,Glasscock
+,500,,Honorable Gina  M.  Palafox,8th Court of Appeals,,,,Honorable Raul T. Perales,77,,77,285th District Court,Bexar
+,501,,Honorable J. Woodfin 'Woodie' Jones,3rd Court of Appeals,,,,Honorable Jeralynn Manor,78,,78,80th District Court,Harris
+,502,,Honorable Gordon Goodman,1st Court of Appeals,,,,Honorable Brittanye Morris,79,,79,333rd District Court,Harris
+,503,,Honorable Brian Hoyle,12th Court of Appeals,,,,Honorable Tracy Gray,80,,80,County Court At Law,Kaufman
+,504,,Honorable Georgina M. Benavides,13th Court of Appeals,,,,Honorable Patrick H. Simmons,81,,81,77th District Court,Freestone
+,505,,Honorable Patricia O'Connell Alvarez,4th Court of Appeals,,,,Honorable John Byron McMaster,82,,82,Williamson County Court at Law No. 4,Williamson
+,478,,Honorable Jim Wright,11th Court of Appeals,,,,Honorable Lora J. Livingston,83,,83,County Civil Court at Law No 2,Harris
+,506,,Honorable Bill Bass,12th Court of Appeals,,,,Honorable Jim F. Kovach,84,,84,25th District Court,Gonzales
+,507,,Honorable James T. Worthen,12th Court of Appeals,,,,Honorable William D. Old,85,,85,143rd District Court,Reeves
+,508,,Honorable N. Terry Adams,1st Court of Appeals,,,,Honorable Catherine A. Mauzy,86,,86,98th District Court,Travis
+,457,,Honorable Per Curiam,4th Court of Appeals,,,,Honorable Christian Becerra,87,,87,434th District Court,Fort Bend
+,457,,Honorable Per Curiam,9th Court of Appeals,,,,Honorable Mark Alan Calhoon,88,,88,3rd District Court,Anderson
+,509,,Honorable Hollis  Horton,9th Court of Appeals,,,,Honorable Grant Kinsey,89,,89,440th District Cpurt,Coryell
+,457,,Honorable Per Curiam,3rd Court of Appeals,,,,Honorable Rabeea Sultan Collier,90,,90,113th District Court,Harris
+,457,,Honorable Per Curiam,11th Court of Appeals,,,,Honorable Robin Malone Darr,91,,91,385th District Court,Midland
+,510,,Honorable E. Lee Gabriel,2nd Court of Appeals,,,,Honorable Barbara J. Stalder,92,,92,280th District Court,Harris
+,511,,Honorable Barbara E. Rosenberg,5th Court of Appeals,,,,Honorable Thomas R. Culver,93,,93,240th District Court,Fort Bend
+,457,,Honorable Per Curiam,13th Court of Appeals,,,,Honorable Jerome Scott Hennigan,94,,94,324th District Court,Tarrant
+,512,,Honorable Robert D. Burns,5th Court of Appeals,,,,Honorable R. O'Neil Williams,95,,95,268th District Court,Fort Bend
+,513,,Honorable Rebeca C. Martinez,4th Court of Appeals,,,,Honorable Ana Estevez,96,,96,251st District Court,Randall
+,514,,Honorable Jeffrey S. Alley,8th Court of Appeals,,,,Honorable Albert D. Pattillo,97,,97,216th District Court,Gillespie
+,515,,Honorable Sandee Bryan Marion,8th Court of Appeals,,,,Honorable Chris Martin,98,,98,294th District Court,Van Zandt
+,516,,Honorable Lana Rolf Myers,5th Court of Appeals,,,,Honorable Melissa Bellan,99,,99,County Court at Law No 2,Dallas
+,517,,Honorable David E. Puryear,3rd Court of Appeals,,,,Honorable Kemper Stephen Williams,100,,100,135th District Court,Refugio
+,518,,Honorable Jeffrey L. Rose,10th Court of Appeals,,,,Honorable Frank Malinak,101,,101,Lee County Court,Lee
+,519,,Honorable Carolyn I. Wright,5th Court of Appeals,,,,Honorable Susan H. McCoy,102,,102,153rd District Court,Tarrant
+,457,,Honorable Per Curiam,7th Court of Appeals,,,,Honorable David Anthony Lopez,103,,103,256th District Court,Dallas
+,520,,Honorable Leslie Lester Osborne,5th Court of Appeals,,,,Honorable Karin R. Crump,104,,104,424th District Court,Burnet
+,521,,Honorable Leticia Hinojosa,13th Court of Appeals,,,,Honorable Mary Murphy,105,,105,336th District Court,Fannin
+,522,,Honorable Josh R. Morriss,6th Court of Appeals,,,,Honorable Gloria E. Lopez,106,,106,308th District Court,Harris
+,523,,Honorable David J. Schenck,5th Court of Appeals,,,,Honorable D'Metria Benson,107,,107,County Court at Law No 1,Dallas
+,457,,Honorable Per Curiam,5th Court of Appeals,,,,Honorable Christopher Gregory,108,,108,59th District Court,Grayson
+,524,,Honorable Sherry Radack,1st Court of Appeals,,,,Honorable Lawrence (Larry) A. Phillips,109,,109,225th District Court,Bexar
+,525,,Honorable Melissa Young Goodwin,3rd Court of Appeals,,,,Honorable Kevin Dan Henderson,110,,110,191st District Court,Dallas
+,1,,Honorable Andrea Stroh Thompson,416th District Court,Collin,,,Honorable Gena Nicole Slaughter,111,,111,312th District Court,Harris
+,2,,Honorable Michelle Moore,314th District Court,Harris,,,Honorable Clinton (Chip) Wells,112,,112,46th District Court,Wilbarger
+,3,,Honorable Sonya Heath,310th District Court,Harris,,,Honorable Cornell (Cory) Douglas Curtis,113,,113,189th District Court,Harris
+,4,,Honorable Deeanne Scoboda Galvan,County Court at Law No 3,Nueces,,,Honorable Maria Aceves,114,,114,131st District Court,Bexar
+,5,,Honorable Jeffrey A. Shadwick,55th District Court,Harris,,,Honorable Tamika Craft-Demming,115,,115,County Court at Law No 3,Cameron
+,6,,Honorable Jill Renfro Willis,429th District Court,Collin,,,Honorable Cynthia Marie Chapa,116,,116,119th District Court,Concho
+,7,,Honorable Tanya Garrison,157th District Court,Harris,,,Honorable Dimple Malhotra,117,,117,County Court at Law No 2,Taylor
+,8,,Honorable Donna Roth,295th District Court,Harris,,,Honorable David Gonzales,118,,118,65th District Court,El Paso
+,9,,Honorable Sally Lundberg Montgomery,County Court at Law No 3,Dallas,,,Honorable Garland Ben Woodward,119,,119,320th District Court,Potter
+,10,,Honorable Clay White,County Court at Law No 3,Smith,,,Honorable Harriett L. Haag,120,,120,215th District Court,Harris
+,11,,Honorable Tonya Parker,116th District Court,Dallas,,,Honorable Yahara Lisa Gutierrez,121,,121,253rd District Court,Chambers
+,12,,Honorable Jan Soifer,459th District Court,Travis,,,Honorable William C. Sowder,122,,122,County Court at Law No 2,Tarrant
+,13,,Honorable J. Brad McCampbell,402nd District Court,Wood,,,Honorable Elaine H. Palmer,123,,123,151st District Court,Harris
+,14,,Honorable Guy S. Herman,Probate Court No 1,Travis,,,Honorable Chap B. Cain,124,,124,212th District Court,Galveston
+,15,,Honorable J. Allan Garrett,33rd District Court,Blanco,,,Honorable Jennifer Setser Rymell,125,,125,506th District Court,Waller
+,16,,Honorable James Benjamin Munford,322nd District Court,Tarrant,,,Honorable Norman Keith Williams,126,,126,County Court at Law No 2,Denton
+,17,,Honorable Pat Gallagher,96th District Court,Tarrant,,,Honorable Michael C. Engelhart,127,,127,166th District Court,Bexar
+,18,,Honorable Tameika Carter,400th District Court,Fort Bend,,,Honorable Patricia V. Grady,128,,128,County Court at Law No 5,Nueces
+,19,,Honorable Timothy D. Yeats,118th District Court,Martin,,,Honorable Albert M. McCaig,129,,129,165th District Court,Harris
+,20,,Honorable Maya Guerra Gamble,53rd District Court,Travis,,,Honorable Robert Ramirez,130,,130,23rd District Court,Matagorda
+,21,,Honorable Hal R. Ridley,278th District Court,Leon,,,Honorable Kimberly S. Burley,131,,131,201st District Court,Travis
+,22,,Honorable Brandy Hallford,County Court at Law No 1,Williamson,,,Honorable Timothy J. McCoy,132,,132,48th District Court,Tarrant
+,23,,Honorable Carry A. Baker,108th District Court,Potter,,,Honorable Ursula A. Hall,133,,133,73rd District Court,Bexar
+,24,,Honorable Emily G. Tobolowsky,298th District Court,Dallas,,,Honorable Ben Hardin,134,,134,269th District Court,Harris
+,25,,Honorable Aiesha Redmond,160th District Court,Dallas,,,Honorable Christopher Taylor,135,,135,127th District Court,Harris
+,26,,Honorable John (Mike) M. Swanson,143rd District Court,Loving,,,Honorable David A. Canales,136,,136,237th District Court,Lubbock
+,27,,Honorable Ashley Elizabeth Wysocki,162nd District Court,Dallas,,,Honorable Cory Sepolio,137,,137,10th District Court,Galveston
+,28,,Honorable Maricela Breedlove,162nd District Court,Dallas,,,Honorable Ravi K. Sandill,138,,138,56th District Court,Galveston
+,29,,Honorable Edward Self,99th District Court,Lubbock,,,Honorable Les Hatch,139,,139,419th District Court,Travis
+,30,,Honorable James Edward Lagomarsino,13th District Court,Navarro,,,Honorable Kerry Lane Neves,140,,140,81st District Court,Karnes
+,31,,Honorable Melody Wilkinson,17th District Court,Tarrant,,,Honorable Lonnie Cox,141,,141,85th District Court,Brazos
+,32,,Honorable Kathleen S. Stone,Tyler County Court,Tyler,,,Honorable Don Burgess,142,,142,395th District Court,Williamson
+,33,,Honorable Kristina M. Williams,192nd District Court,Dallas,,,Honorable Joel B. Johnson,143,,143,354th District Court,Hunt
+,34,,Honorable Paula Rosales,County Court at Law No 4,Dallas,,,Honorable Kyle Hawthorne,144,,144,169th District Court,Bell
+,35,,Honorable Mark H. Woerner,County Court at Law No 4,Nueces,,,Honorable Ryan Larson,145,,145,42nd District Court,Coleman
+,36,,Honorable Joshua Z. Wintters,Van Zandt County Court,Van Zandt,,,Honorable Maggie Perez-Jaramillo,146,,146,County Court at Law,Orange
+,37,,Honorable Jeff Steinhauser,155th District Court,Fayette,,,Honorable Keli Michelle Aiken,147,,147,County Court at Law No 5,Dallas
+,38,,Honorable Jim S. Johnson,431st District Court,Denton,,,Honorable Cari Starritt-Burnett,148,,148,County Court at Law No. 6,Collin
+,39,,Honorable Amy Mccorkle Smith,402nd District Court,Wood,,,Honorable James Eidson,149,,149,190th District Court,Harris
+,40,,Honorable Staci Williams,101st District Court,Dallas,,,Honorable Mandy White-Rogers,150,,150,331st District Court,Travis
+,41,,Honorable Jennifer Edgeworth,219th District Court,Collin,,,Honorable Nicole  R.  Taylor,151,,151,County Court at Law,Henderson
+,42,,Honorable Dale B. Tillery,134th District Court,Dallas,,,Honorable Jay  Adam Bender,152,,152,1st District Court,Jasper
+,43,,Honorable Dedra Davis,270th District Court,Harris,,,Honorable Judge 190th District Court,153,,153,112th District Court,Pecos
+,44,,Honorable Christopher Michael Clark,County Court at Law No 2,Ector,,,Honorable Chantal Melissa Eldridge,154,,154,County Court at Law,Randall
+,45,,Honorable Megan Jo Berger Fahey,348th District Court,Tarrant,,,Honorable Beauford Keith Downs,155,,155,330th District Court,Dallas
+,46,,Honorable Daniella Deseta Lyttle,261st District Court,Travis,,,Honorable Craig M. Mixson,156,,156,67th District Court,
+,47,,Honorable Julia Malveaux,Probate Court,Dallas,,,Honorable Stephen B. Ables,157,,157,47th District Court,Randall
+,48,,"Honorable Amado J. Abascal, III",365th District Court,Zavala,,,Honorable Jack M. Graham,158,,158,County Court at Law No. 7,Collin
+,49,,Honorable Annabel Perez,41st District Court,El Paso,,,Honorable Andrea D. Plumlee,159,,159,Probate Court,El Paso
+,20,,Honorable Maya Guerra Gamble,459th District Court,Travis,,,Honorable Donald J. Cosby,160,,160,367th District Court,Denton
+,50,,Honorable Jesus E. Nevarez,231st District Court,Tarrant,,,Honorable Delinda (Dee) Rene Johnson,161,,161,316th District Court,Hutchinson
+,51,,Honorable John Brick,272nd District Court,Brazos,,,Honorable David Waddill,162,,162,236th District Court,Tarrant
+,52,,Honorable Terri Tipton Holder,149th District Court,Brazoria,,,Honorable Patricia Chew,163,,163,148th District Court,Nueces
+,53,,Honorable Jessica Lauren Mangrum,353rd District Court,Travis,,,Honorable Margaret Barnes,164,,164,Probate Court No. 1,Collin
+,54,,Honorable Brock R. Smith,271st District Court,Wise,,,Honorable James M. Mosley,165,,165,103rd District Court,Cameron
+,55,,Honorable Paul R. Rotenberry,326th District Court,Taylor,,,Honorable Thomas Wilson Lowe,166,,166,81st District Court,Wilson
+,56,,Honorable David V. Stith,319th District Court,Nueces,,,Honorable David Klein,167,,167,146th District Court,Bell
+,57,,Honorable Jack A. McGaughey,97th District Court,Montague,,,Honorable Weldon Stone Copeland,168,,168,193rd District Court,Dallas
+,12,,Honorable Jan Soifer,126th District Court,Travis,,,Honorable Amy Clark-Meachum,169,,169,350th District Court,Taylor
+,58,,Honorable Eric Moye,14th District Court,Dallas,,,Honorable Janet Lee Leal,170,,170,County Court at Law No 2,Montgomery
+,59,,Honorable Carson Campbell,21st District Court,Bastrop,,,Honorable Russell Wilson,171,,171,61st District Court,Harris
+,60,,Honorable Kristin Brauchle Hawkins,11th District Court,Harris,,,Honorable Dallas Sims,172,,172,250th District Court,Travis
+,61,,Honorable Jerry Buckner,County Court at Law,Parker,,,Honorable Bridgett Nichol Whitmore,173,,173,45th District Court,Bexar
+,62,,Honorable Chad W. Dean,County Court at Law,Rusk,,,Honorable Cleve W. Doty,174,,174,200th District Court,Travis
+,63,,Honorable Susan F. Harris,County Court at Law,Kerr,,,Honorable Thomas M. Wheeler,175,,175,368th District Court,Williamson
+,64,,Honorable MONICA MCCOY PURDY,95th District Court,Dallas,,,Honorable Antonia Arteaga,176,,176,84th District Court,Hutchinson
+,65,,Honorable Michael Paul Gomez,129th District Court,Harris,,,Honorable Claudia Lee Laird,177,,177,451st District Court,Kendall
+,66,,Honorable Randy McDonald,344th District Court,Chambers,,,Honorable Fredericka Phillips,178,,178,County Court at Law No 2,Gregg
+,67,,Honorable Manpreet Monica Singh,County Civil Court at Law No 4,Harris,,,Honorable Mary Lou Alvarez,179,,179,92nd District Court,Hidalgo
+,68,,Honorable Patricia Bennett,360th District Court,Tarrant,,,Honorable Maria Cantu Hexsel,180,,180,423rd District Court,Bastrop
+,69,,Honorable John Jackson McClendon,137th District Court,Lubbock,,,Honorable Madeleine Connor,181,,181,117th District Court,Nueces
+,70,,Honorable Alexander Han Joong Kim,323rd District Court,Tarrant,,,Honorable John W. Youngblood,182,,182,112th District Court,Reagan
+,71,,Honorable Jessica Crawford,25th District Court,Guadalupe,,,Honorable Curt W. Brancheau,183,,183,145th District Court,Nacogdoches
+,72,,Honorable Steven Lee Smith,361st District Court,Brazos,,,Honorable Kirsten B. Cohoon,184,,184,435th District Court,Montgomery
+,73,,Honorable Christine Weems,281st District Court,Harris,,,Honorable Vincent L. Dulweber,185,,185,Criminal District Court 3,Tarrant
+,74,,Honorable Natalia Oakes,313th District Court,Harris,,,Honorable Luis M. Singleterry,186,,186,334th District Court,Harris
+,75,,Honorable Vincenzo Santini,457th District Court,Montgomery,,,Honorable Christopher Darrow Duggan,187,,187,441st District Court,Midland
+,76,,Honorable Sergio H. Enriquez,448th District Court,El Paso,,,Honorable Charles E. Montemayor,188,,188,County Court at Law No 3,McLennan
+,19,,Honorable Timothy D. Yeats,118th District Court,Glasscock,,,Honorable Sandre Streete,189,,189,143rd District Court,Ward
+,77,,Honorable Raul T. Perales,285th District Court,Bexar,,,Honorable Susan Barclay,190,,190,438th District Court,Bexar
+,78,,Honorable Jeralynn Manor,80th District Court,Harris,,,Honorable Richard Edward Price,191,,191,114th District Court,Smith
+,79,,Honorable Brittanye Morris,333rd District Court,Harris,,,Honorable Pedro (Pete) Gomez,192,,192,12th District Court,Grimes
+,80,,Honorable Tracy Gray,County Court At Law,Kaufman,,,Honorable Dwight L. Phifer,193,,193,90th District Court,Stephens
+,81,,Honorable Patrick H. Simmons,77th District Court,Freestone,,,Honorable Patricia (Patty) Maginnis,194,,194,County Court at Law No 5,Hidalgo
+,82,,Honorable John Byron McMaster,Williamson County Court at Law No. 4,Williamson,,,Honorable Elizabeth H. Beach,195,,195,345th District Court,Travis
+,83,,Honorable Lora J. Livingston,353rd District Court,Travis,,,Honorable Dawn Rogers,196,,196,82nd District Court,Robertson
+,84,,Honorable Jim F. Kovach,County Civil Court at Law No 2,Harris,,,Honorable Ryan Luna,197,,197,72nd District Court,Crosby
+,85,,Honorable William D. Old,25th District Court,Gonzales,,,Honorable Aaron Haas,198,,198,397th District Court,Grayson
+,26,,Honorable John (Mike) M. Swanson,143rd District Court,Reeves,,,Honorable Austin R. Jackson,199,,199,198th District Court,Bandera
+,86,,Honorable Catherine A. Mauzy,98th District Court,Travis,,,Honorable David W. Moorman,200,,200,164th District Court,Harris
+,87,,Honorable Christian Becerra,434th District Court,Fort Bend,,,Honorable Stephen E. Bristow,201,,201,County Court at Law No 6,El Paso
+,88,,Honorable Mark Alan Calhoon,3rd District Court,Anderson,,,Honorable JoAnne Garcia,202,,202,202nd District Court,Bowie
+,89,,Honorable Grant Kinsey,440th District Cpurt,Coryell,,,Honorable Bryan (Rusty) F. Russ,203,,203,44th District Court,Dallas
+,90,,Honorable Rabeea Sultan Collier,113th District Court,Harris,,,Honorable Kara L. Darnell,204,,204,68th District Court,Dallas
+,91,,Honorable Robin Malone Darr,385th District Court,Midland,,,Honorable Brian K. Gary,205,,205,128th District Court,Orange
+,92,,Honorable Barbara J. Stalder,280th District Court,Harris,,,Honorable Richard Garcia,206,,206,471st District Court,Collin
+,93,,Honorable Thomas R. Culver,240th District Court,Fort Bend,,,Honorable Melvin Rex Emerson,207,,207,255th District Court,Dallas
+,94,,Honorable Jerome Scott Hennigan,324th District Court,Tarrant,,,Honorable Cheryl Elliott Thornton,208,,208,224th District Court,Bexar
+,95,,Honorable R. O'Neil Williams,268th District Court,Fort Bend,,,Honorable M. Sue Kurita,209,,209,315th District Court,Harris
+,96,,Honorable Ana Estevez,251st District Court,Randall,,,Honorable Eric Shepperd,210,,210,County Criminal Court No 10,Tarrant
+,97,,Honorable Albert D. Pattillo,216th District Court,Gillespie,,,Honorable John Tidwell,211,,211,County Court at Law No 3 & Probate Court,Brazoria
+,98,,Honorable Chris Martin,294th District Court,Van Zandt,,,Honorable Martin Jerome Hoffman,212,,212,County Court at Law No 3,El Paso
+,99,,Honorable Melissa Bellan,County Court at Law No 2,Dallas,,,Honorable Courtney Burch-Arkeen,213,,213,County Court at Law No 3,Montgomery
+,100,,Honorable Kemper Stephen Williams,135th District Court,Refugio,,,Honorable Andrea Kelly Bouressa,214,,214,414th District Court,McLennan
+,101,,Honorable Frank Malinak,Lee County Court,Lee,,,Honorable Scot Gibbons Dollinger,215,,215,139th District Court,Hidalgo
+,102,,Honorable Susan H. McCoy,153rd District Court,Tarrant,,,Honorable Leah Shapiro,216,,216,40th District Court,Ellis
+,103,,Honorable David Anthony Lopez,256th District Court,Dallas,,,Honorable M. Trent Loftin,217,,217,444th District Court,Cameron
+,104,,Honorable Karin R. Crump,53rd District Court,Travis,,,Honorable Jeremy Eugene Warren,218,,218,343rd District Court,Bee
+,15,,Honorable J. Allan Garrett,424th District Court,Burnet,,,Honorable Dick Alcala,219,,219,288th District Court,Bexar
+,105,,Honorable Mary Murphy,336th District Court,Fannin,,,Honorable Amy Tucker,220,,220,392nd District Court,Henderson
+,106,,Honorable Gloria E. Lopez,308th District Court,Harris,,,Honorable Vicki L. Menard,221,,221,County Court at Law No 7,El Paso
+,107,,Honorable D'Metria Benson,County Court at Law No 1,Dallas,,,Honorable Jose Roberto Flores,222,,222,83rd District Court,Pecos
+,108,,Honorable Christopher Gregory,,Tarrant,,,Honorable Bob Carroll,223,,223,12th District Court,Madison
+,109,,Honorable Lawrence (Larry) A. Phillips,59th District Court,Grayson,,,Honorable David Alonzo Sanchez,224,,224,433rd District Court,Comal
+,110,,Honorable Kevin Dan Henderson,225th District Court,Bexar,,,Honorable Robert Scott McKee,225,,225,430th District Court,Hidalgo
+,111,,Honorable Gena Nicole Slaughter,191st District Court,Dallas,,,Honorable Ruben Morales,226,,226,329th District Court,Wharton
+,112,,Honorable Clinton (Chip) Wells,312th District Court,Harris,,,Honorable Dibrell W. Waldrip,227,,227,29th District Court,Palo Pinto
+,113,,Honorable Cornell (Cory) Douglas Curtis,46th District Court,Wilbarger,,,Honorable Israel Ramon,228,,228,424th District Court,San Saba
+,114,,Honorable Maria Aceves,192nd District Court,Dallas,,,Honorable Randy M. Clapp,229,,229,296th District Court,Collin
+,20,,Honorable Maya Guerra Gamble,98th District Court,Travis,,,Honorable Jack Weldon Jones,230,,230,76th District Court,Camp
+,53,,Honorable Jessica Lauren Mangrum,53rd District Court,Travis,,,Honorable Robert P. Brotherton,231,,231,42nd District Court,Taylor
+,115,,Honorable Tamika Craft-Demming,189th District Court,Harris,,,Honorable Evan Clay Stubbs,232,,232,355th District Court,Hood
+,116,,Honorable Cynthia Marie Chapa,131st District Court,Bexar,,,Honorable John R. Roach,233,,233,233rd District Court,Tarrant
+,117,,Honorable Dimple Malhotra,County Civil Court at Law No 4,Harris,,,Honorable Deane A. Loughmiller,234,,234,404th District Court,Cameron
+,118,,Honorable David Gonzales,County Court at Law No 3,Cameron,,,Honorable Veretta L. Frazier,235,,235,122nd District Court,Galveston
+,119,,Honorable Garland Ben Woodward,119th District Court,Concho,,,Honorable Bryan T. Bufkin,236,,236,150th District Court,Bexar
+,120,,Honorable Harriett L. Haag,County Court at Law No 2,Taylor,,,Honorable Kenneth Newell,237,,237,197th District Court,Cameron
+,121,,Honorable Yahara Lisa Gutierrez,65th District Court,El Paso,,,Honorable Ricardo M. Adobbati,238,,238,118th District Court,Howard
+,122,,Honorable William C. Sowder,320th District Court,Potter,,,Honorable John A. Ellisor,239,,239,74th District Court,McLennan
+,123,,Honorable Elaine H. Palmer,215th District Court,Harris,,,Honorable Argie Brame,240,,240,198th District Court,Kerr
+,124,,Honorable Chap B. Cain,253rd District Court,Chambers,,,Honorable Cathleen M. Stryker,241,,241,18th District Court,Johnson
+,125,,Honorable Jennifer Setser Rymell,County Court at Law No 2,Tarrant,,,Honorable Adolfo Cordova,242,,242,235th District Court,Cooke
+,126,,Honorable Norman Keith Williams,216th District Court,Gillespie,,,Honorable Mark B. Greenberg,243,,243,383rd District Court,El Paso
+,127,,Honorable Michael C. Engelhart,151st District Court,Harris,,,Honorable Nikki Mundkowsky,244,,244,425th District Court,Williamson
+,128,,Honorable Patricia V. Grady,212th District Court,Galveston,,,Honorable Rex Emerson,245,,245,107th District Court,Cameron
+,129,,Honorable Albert M. McCaig,506th District Court,Waller,,,Honorable Sydney B. Hewlett,246,,246,33rd District Court,Llano
+,130,,Honorable Robert Ramirez,County Court at Law No 2,Denton,,,Honorable Janna K. Whatley,247,,247,County Court at Law,Liberty
+,131,,Honorable Kimberly S. Burley,166th District Court,Bexar,,,Honorable Janelle Haverkamp,248,,248,57th District Court,Bexar
+,132,,Honorable Timothy J. McCoy,County Court at Law No 5,Nueces,,,Honorable April R. Propst,249,,249,394th District Court,Brewster
+,133,,Honorable Ursula A. Hall,165th District Court,Harris,,,Honorable Guadalupe Rivera,250,,250,43rd District Court,Parker
+,77,,Honorable Raul T. Perales,225th District Court,Bexar,,,Honorable Betsy Lambeth,251,,251,307th District Court,Gregg
+,134,,Honorable Ben Hardin,23rd District Court,Matagorda,,,Honorable David Evans,252,,252,County Court at Law No 1,Tarrant
+,12,,Honorable Jan Soifer,201st District Court,Travis,,,Honorable Monique Diaz,253,,253,County Court at Law No 3,Hidalgo
+,135,,Honorable Christopher Taylor,48th District Court,Tarrant,,,Honorable Vicki Isaacks,254,,254,Fort Bend County Court,Fort Bend
+,136,,Honorable David A. Canales,73rd District Court,Bexar,,,Honorable Benjamin Euresti,255,,255,252nd District Court,Jefferson
+,137,,Honorable Cory Sepolio,269th District Court,Harris,,,Honorable Wesley Hinch,256,,256,125th District Court,Harris
+,138,,Honorable Ravi K. Sandill,127th District Court,Harris,,,Honorable Roy B. Ferguson,257,,257,407th District Court,Bexar
+,139,,Honorable Les Hatch,237th District Court,Lubbock,,,Honorable Craig Towson,258,,258,72nd District Court,Lubbock
+,140,,Honorable Kerry Lane Neves,10th District Court,Galveston,,,Honorable Tim Womack,259,,259,County Court at Law No 3,Tarrant
+,141,,Honorable Lonnie Cox,56th District Court,Galveston,,,Honorable Don Pierson,260,,260,50th District Court,Knox
+,142,,Honorable Don Burgess,419th District Court,Travis,,,Honorable Rosie Alvarado,261,,261,304th District Court,Dallas
+,143,,Honorable Joel B. Johnson,81st District Court,Karnes,,,Honorable Linda A. Rodriguez,262,,262,218th District Court,Karnes
+,144,,Honorable Kyle Hawthorne,85th District Court,Brazos,,,Honorable Toni M. Wallace,263,,263,62nd District Court,Lamar
+,145,,Honorable Ryan Larson,395th District Court,Williamson,,,Honorable Raquel West,264,,264,County Court at Law #2,Kaufman
+,146,,Honorable Maggie Perez-Jaramillo,400th District Court,Fort Bend,,,Honorable O. Kyle Carter,265,,265,505th District Court,Fort Bend
+,147,,Honorable Keli Michelle Aiken,354th District Court,Hunt,,,Honorable Tina Torres,266,,266,76th District Court,Morris
+,148,,Honorable Cari Starritt-Burnett,169th District Court,Bell,,,Honorable David L. Gleason,267,,267,380th District Court,Collin
+,149,,Honorable James Eidson,42nd District Court,Coleman,,,Honorable Mike Hrabal,268,,268,Jim Wells County Court,Jim Wells
+,150,,Honorable Mandy White-Rogers,County Court at Law,Orange,,,Honorable Jennifer Ann Habert,269,,269,91st District Court,Eastland
+,151,,Honorable Nicole  R.  Taylor,County Court at Law No 5,Dallas,,,Honorable Andrea Martin Lane,270,,270,243rd District Court,El Paso
+,152,,Honorable Jay  Adam Bender,County Court at Law No. 6,Collin,,,Honorable Lynn Ellison,271,,271,County Court at Law No 1,Johnson
+,52,,Honorable Terri Tipton Holder,270th District Court,Harris,,,Honorable Javier Alvarez,272,,272,188th District Court,Gregg
+,153,,Honorable Judge 190th District Court,190th District Court,Harris,,,Honorable Laura L. Salinas,273,,273,Probate Court,Galveston
+,154,,Honorable Chantal Melissa Eldridge,331st District Court,Travis,,,Honorable John (Will) W. Biard,274,,274,104th District Court,Taylor
+,155,,Honorable Beauford Keith Downs,County Court at Law,Henderson,,,Honorable Bobby L. Rich,275,,275,County Court at Law No 1,Webb
+,156,,Honorable Craig M. Mixson,1st District Court,Jasper,,,Honorable Kali Morgan,276,,276,366th District Court,Collin
+,157,,Honorable Stephen B. Ables,112th District Court,Pecos,,,Honorable Angela Saucier,277,,277,135th District Court,Victoria
+,158,,Honorable Jack M. Graham,County Court at Law,Randall,,,Honorable Benjamin N. Smith,278,,278,71st District Court,Harrison
+,159,,Honorable Andrea D. Plumlee,330th District Court,Dallas,,,Honorable John T. Wooldridge,279,,279,Court Court at Law No 3,Galveston
+,160,,Honorable Donald J. Cosby,67th District Court,,,,Honorable Michael Ventura Garcia,280,,280,Cooke County Court,Cooke
+,161,,Honorable Delinda (Dee) Rene Johnson,47th District Court,Randall,,,Honorable Steven R. Herod,281,,281,358th District Court,Ector
+,162,,Honorable David Waddill,County Court at Law No. 7,Collin,,,Honorable Selena Norah Solis,282,,282,81st District Court,Frio
+,163,,Honorable Patricia Chew,Probate Court,El Paso,,,Honorable Robert B. Mayfield,283,,283,35th District Court,Brown
+,20,,Honorable Maya Guerra Gamble,353rd District Court,Travis,,,Honorable John Scott Novy,284,,284,393rd District Court,Denton
+,164,,Honorable Margaret Barnes,367th District Court,Denton,,,Honorable Kim A. Sullivan,285,,285,257th District Court,Harris
+,165,,Honorable James M. Mosley,316th District Court,Hutchinson,,,Honorable David Peeples,286,,286,141st District Court,Tarrant
+,166,,Honorable Thomas Wilson Lowe,236th District Court,Tarrant,,,Honorable Dan Mike Bird,287,,287,37th District Court,Bexar
+,167,,Honorable David Klein,148th District Court,Nueces,,,Honorable Jeff Propst,288,,288,County Court at Law No 2,Wichita
+,168,,Honorable Weldon Stone Copeland,Probate Court No. 1,Collin,,,Honorable Hugo Daniel Martinez,289,,289,214th District Court,Nueces
+,169,,Honorable Amy Clark-Meachum,53rd District Court,Travis,,,Honorable Gary D. Harger,290,,290,County Court at Law No 2,Smith
+,170,,Honorable Janet Lee Leal,103rd District Court,Cameron,,,Honorable Tomasz (Tom) Nowak,291,,291,142nd District Court,Midland
+,171,,Honorable Russell Wilson,81st District Court,Wilson,,,Honorable Brad Morin,292,,292,274th District Court,Comal
+,172,,Honorable Dallas Sims,146th District Court,Bell,,,Honorable Jack Ewing,293,,293,207th District Court,Hays
+,173,,Honorable Bridgett Nichol Whitmore,193rd District Court,Dallas,,,Honorable John H. Morris,294,,294,364th District Court,Lubbock
+,174,,Honorable Cleve W. Doty,353rd District Court,Travis,,,Honorable Sandra Lee Watts,295,,295,Criminal District Court 1,Tarrant
+,175,,Honorable Thomas M. Wheeler,350th District Court,Taylor,,,Honorable John F. Shrode,296,,296,370th District Court,Hidalgo
+,176,,Honorable Antonia Arteaga,225th District Court,Bexar,,,Honorable Gary Lynn Banks,297,,297,105th District Court,Nueces
+,177,,Honorable Claudia Lee Laird,County Court at Law No 2,Montgomery,,,Honorable Douglas M. Robison,298,,298,415TH DISTRICT COURT,Parker
+,178,,Honorable Fredericka Phillips,61st District Court,Harris,,,Honorable Todd A. Blomerth,299,,299,21st District Court,Burleson
+,104,,Honorable Karin R. Crump,250th District Court,Travis,,,Honorable Sandra Peake,300,,300,408th District Court,Bexar
+,179,,Honorable Mary Lou Alvarez,45th District Court,Bexar,,,Honorable John P. Chupp,301,,301,234th District Court,Harris
+,180,,Honorable Maria Cantu Hexsel,201st District Court,Travis,,,Honorable Walden Shelton,302,,302,305th District Court,Dallas
+,181,,Honorable Madeleine Connor,200th District Court,Travis,,,Honorable Greg King,303,,303,458th District Court,Fort Bend
+,182,,Honorable John W. Youngblood,368th District Court,Williamson,,,Honorable Inna S. Rogoff-Klein,304,,304,Anderson County Court,Anderson
+,183,,Honorable Curt W. Brancheau,84th District Court,Hutchinson,,,Honorable Sara Maynard,305,,305,274th District Court,Hays
+,184,,Honorable Kirsten B. Cohoon,451st District Court,Kendall,,,Honorable David Glenn Rogers,306,,306,75th District Court,Liberty
+,185,,Honorable Vincent L. Dulweber,County Court at Law No 2,Gregg,,,Honorable Stephanie S. Bascon,307,,307,Probate Court No 2,Harris
+,186,,Honorable Luis M. Singleterry,92nd District Court,Hidalgo,,,Honorable Dwight E. Peschel,308,,308,51st District Court,Tom Green
+,187,,Honorable Christopher Darrow Duggan,423rd District Court,Bastrop,,,Honorable William (Billy) R. Eichman,309,,309,481st District Court,Denton
+,188,,Honorable Charles E. Montemayor,131st District Court,Bexar,,,Honorable Noe Gonzalez,310,,310,69th District Court,Dallam
+,189,,Honorable Sandre Streete,256th District Court,Dallas,,,Honorable Nicole Garza,311,,311,152nd District Court,Harris
+,190,,Honorable Susan Barclay,117th District Court,Nueces,,,Honorable Christi J. Kennedy,312,,312,244th District Court,Ector
+,191,,Honorable Richard Edward Price,131st District Court,Bexar,,,Honorable Lawrence David Weiman,313,,313,302nd District Court,Dallas
+,169,,Honorable Amy Clark-Meachum,201st District Court,Travis,,,Honorable Maria Cantú Hexsel,314,,314,445th District Court,Cameron
+,192,,Honorable Pedro (Pete) Gomez,112th District Court,Reagan,,,Honorable Jack William Pulcher,315,,315,Criminal District Court 5 of Dallas County,Dallas
+,193,,Honorable Dwight L. Phifer,145th District Court,Nacogdoches,,,Honorable Graham Quisenberry,316,,316,115th District Court,Upshur
+,194,,Honorable Patricia (Patty) Maginnis,435th District Court,Montgomery,,,Honorable Rick J. Kennon,317,,317,49th District Court,Webb
+,195,,Honorable Elizabeth H. Beach,Criminal District Court 3,Tarrant,,,Honorable Sid L. Harle,318,,318,161st District Court,Ector
+,196,,Honorable Dawn Rogers,334th District Court,Harris,,,Honorable Dustin Mark Howell,319,,319,Probate Court No 1,Tarrant
+,197,,Honorable Ryan Luna,County Court at Law No 3,McLennan,,,Honorable Gary Coley,320,,320,284th District Court,Montgomery
+,26,,Honorable John (Mike) M. Swanson,143rd District Court,Ward,,,Honorable Robert A. Perkins,321,,321,455th District Court,Travis
+,198,,Honorable Aaron Haas,438th District Court,Bexar,,,Honorable Wesley R. Ward,322,,322,401st District Court,Collin
+,199,,Honorable Austin R. Jackson,114th District Court,Smith,,,Honorable Chad Dwayne Bradshaw,323,,323,Grimes County Court,Grimes
+,200,,Honorable David W. Moorman,12th District Court,Grimes,,,Honorable Mary Catherine Brown,324,,324,325th District Court,Tarrant
+,201,,Honorable Stephen E. Bristow,90th District Court,Stephens,,,Honorable Robert L. Rolnick,325,,325,Harrison County Court,Harrison
+,202,,Honorable JoAnne Garcia,County Court at Law No 5,Hidalgo,,,Honorable Gloria M. Rincones,326,,326,365th District Court,Maverick
+,104,,Honorable Karin R. Crump,345th District Court,Travis,,,Honorable James Harold Shoemake,327,,327,County Court At Law,Harrison
+,203,,Honorable Bryan (Rusty) F. Russ,82nd District Court,Robertson,,,Honorable Brendan J. Doran,328,,328,293rd District Court,Dimmit
+,204,,Honorable Kara L. Darnell,72nd District Court,Crosby,,,Honorable John Franklin Phillips,329,,329,County Court at Law #4,Fort Bend
+,205,,Honorable Brian K. Gary,397th District Court,Grayson,,,Honorable Mark Morefield,330,,330,51st District Court,Irion
+,206,,Honorable Richard Garcia,45th District Court,Bexar,,,Honorable Michael J. Wood,331,,331,274th District Court,Guadalupe
+,207,,Honorable Melvin Rex Emerson,198th District Court,Bandera,,,Honorable Kimberly Lemons Allen,332,,332,County Court at Law No 3,Fort Bend
+,208,,Honorable Cheryl Elliott Thornton,164th District Court,Harris,,,Honorable Robert K. Schaffer,333,,333,Criminal District Court 6,Dallas
+,181,,Honorable Madeleine Connor,126th District Court,Travis,,,Honorable Glen H. Devlin,334,,334,426th District Court,Bell
+,209,,Honorable M. Sue Kurita,County Court at Law No 6,El Paso,,,Honorable Lauren Reeder,335,,335,112th District Court,Upton
+,210,,Honorable Eric Shepperd,200th District Court,Travis,,,Honorable James M. Rush,336,,336,County Court at Law No 2,Brazos
+,211,,Honorable John Tidwell,202nd District Court,Bowie,,,Honorable Sandra Jackson,337,,337,328th District Court,Fort Bend
+,27,,Honorable Ashley Elizabeth Wysocki,44th District Court,Dallas,,,Honorable Carter Thompson,338,,338,County Court at Law No 2,Galveston
+,212,,Honorable Martin Jerome Hoffman,68th District Court,Dallas,,,Honorable Jerald Dean Fowler,339,,339,335th District Court,Burleson
+,213,,Honorable Courtney Burch-Arkeen,128th District Court,Orange,,,Honorable H. D. Black,340,,340,82nd District Court,Falls
+,214,,Honorable Andrea Kelly Bouressa,471st District Court,Collin,,,Honorable Monica Z. Notzon,341,,341,362nd District Court,Denton
+,215,,Honorable Scot Gibbons Dollinger,189th District Court,Harris,,,Honorable John W. Smith,342,,342,County Court at Law No 2,Travis
+,188,,Honorable Charles E. Montemayor,224th District Court,Bexar,,,Honorable William R. Burke,343,,343,9th District Court,Montgomery
+,216,,Honorable Leah Shapiro,315th District Court,Harris,,,Honorable Christopher W. Ponder,344,,344,170th District Court,McLennan
+,217,,Honorable M. Trent Loftin,County Criminal Court No 10,Tarrant,,,Honorable Kristin Bays,345,,345,398th District Court,Hidalgo
+,218,,Honorable Jeremy Eugene Warren,County Court at Law No 3 & Probate Court,Brazoria,,,Honorable Donna S. Rayes,346,,346,332nd District Court,Hidalgo
+,219,,Honorable Dick Alcala,County Court at Law No 3,El Paso,,,Honorable Dena Fisher,347,,347,421st District Court,Caldwell
+,83,,Honorable Lora J. Livingston,98th District Court,Travis,,,Honorable George B. Flint,348,,348,County Court at Law No 2,Potter
+,53,,Honorable Jessica Lauren Mangrum,200th District Court,Travis,,,Honorable Joe Fauth,349,,349,199th District Court,Collin
+,220,,Honorable Amy Tucker,County Court at Law No 3,Montgomery,,,Honorable Judith G. Wells,350,,350,417th District Court,Collin
+,221,,Honorable Vicki L. Menard,414th District Court,McLennan,,,Honorable Lisa Andrews,351,,351,140th District Court,Lubbock
+,222,,Honorable Jose Roberto Flores,139th District Court,Hidalgo,,,Honorable Amado Jose Abascal,352,,352,220th District Court,Hamilton
+,223,,Honorable Bob Carroll,40th District Court,Ellis,,,Honorable Joe M. Black,353,,353,271st District Court,Jack
+,83,,Honorable Lora J. Livingston,261st District Court,Travis,,,Honorable Maribel Flores,354,,354,County Civil Court at Law No 3,Harris
+,224,,Honorable David Alonzo Sanchez,444th District Court,Cameron,,,Honorable Juli Mathew,355,,355,35th District Court,Mills
+,143,,Honorable Joel B. Johnson,343rd District Court,Bee,,,Honorable Barbara Lane Walther,356,,356,77th District Court,Limestone
+,198,,Honorable Aaron Haas,288th District Court,Bexar,,,Honorable Gary L. Steel,357,,357,216th District Court,Kerr
+,225,,Honorable Robert Scott McKee,392nd District Court,Henderson,,,Honorable Susan G. Lowery,358,,358,County Court at Law No 2,Midland
+,86,,Honorable Catherine A. Mauzy,419th District Court,Travis,,,Honorable Nancy Cutler Mulder,359,,359,109th District Court,Andrews
+,226,,Honorable Ruben Morales,County Court at Law No 7,El Paso,,,Honorable Juanita Pavlick,360,,360,377th District Court,Victoria
+,157,,Honorable Stephen B. Ables,83rd District Court,Pecos,,,Honorable Steve J. Duskie,361,,361,County Court at Law No 2,Collin
+,200,,Honorable David W. Moorman,12th District Court,Madison,,,Honorable James W. Locke,362,,362,171st District Court,El Paso
+,227,,Honorable Dibrell W. Waldrip,433rd District Court,Comal,,,Honorable Caroline E. Baker,363,,363,286th District Court,Hockley
+,228,,Honorable Israel Ramon,430th District Court,Hidalgo,,,Honorable Walter G. Armatys,364,,364,180th District Court,Harris
+,229,,Honorable Randy M. Clapp,329th District Court,Wharton,,,Honorable Kerri M. Foley,365,,365,Hidalgo County Court at Law No. 9,Hidalgo
+,230,,Honorable Jack Weldon Jones,146th District Court,Bell,,,Honorable Reva L. Towslee Corbett,366,,366,Cass County Court,Cass
+,231,,Honorable Robert P. Brotherton,29th District Court,Palo Pinto,,,Honorable Ann-Marie Carruth,367,,367,412th Distric Court,Brazoria
+,232,,Honorable Evan Clay Stubbs,424th District Court,San Saba,,,Honorable Steven E. Kirkland,368,,368,229th District Court,Starr
+,233,,Honorable John R. Roach,296th District Court,Collin,,,Honorable Robert Bruce McFarling,369,,369,7th District Court,Smith
+,234,,Honorable Deane A. Loughmiller,76th District Court,Camp,,,Honorable Lesley Briones,370,,370,County Court at Law No 1,Fort Bend
+,149,,Honorable James Eidson,42nd District Court,Taylor,,,Honorable William (Bill) McLeod,371,,371,507th District Court,Harris
+,235,,Honorable Veretta L. Frazier,44th District Court,Dallas,,,Honorable Phil A. Grant,372,,372,155th District Court,Austin
+,236,,Honorable Bryan T. Bufkin,355th District Court,Hood,,,Honorable Jim Meyer,373,,373,Probate Court No 1,Bexar
+,7,,Honorable Tanya Garrison,164th District Court,Harris,,,Honorable Michael Barry Newman,374,,374,278th District Court,Madison
+,237,,Honorable Kenneth Newell,233rd District Court,Tarrant,,,Honorable Keno Vasquez,375,,375,County Court at Law,Reeves
+,238,,Honorable Ricardo M. Adobbati,404th District Court,Cameron,,,Honorable Mario Efrain Ramirez,376,,376,County Court at Law No 1,Nueces
+,239,,Honorable John A. Ellisor,122nd District Court,Galveston,,,Honorable Thomas Nathaniel Stuckey,377,,377,253rd District Court,Liberty
+,240,,Honorable Argie Brame,434th District Court,Fort Bend,,,Honorable Matt Hand,378,,378,63rd District Court,Val Verde
+,23,,Honorable Carry A. Baker,320th District Court,Potter,,,Honorable Angela Michelle Tucker,379,,379,278th District Court,Walker
+,241,,Honorable Cathleen M. Stryker,150th District Court,Bexar,,,Honorable Cynthia McCrann Wheless,380,,380,54th District Court,McLennan
+,242,,Honorable Adolfo Cordova,197th District Court,Cameron,,,Honorable Bonnie Lee Goldstein,381,,381,Probate Court,Denton
+,243,,Honorable Mark B. Greenberg,County Court at Law No 5,Dallas,,,Honorable Douglas H. Freitag,382,,382,341st District Court,Webb
+,19,,Honorable Timothy D. Yeats,118th District Court,Howard,,,Honorable Charles Butler,383,,383,County Court at Law,Cherokee
+,244,,Honorable Nikki Mundkowsky,74th District Court,McLennan,,,Honorable Shaun Carpenter,384,,384,267th District Court,De Witt
+,104,,Honorable Karin R. Crump,200th District Court,Travis,,,Honorable LaShawn A. Williams,385,,385,211th District Court,Denton
+,245,,Honorable Rex Emerson,198th District Court,Kerr,,,Honorable William Stephen Ellis,386,,386,County Court at Law No 1,Travis
+,246,,Honorable Sydney B. Hewlett,18th District Court,Johnson,,,Honorable Beauford K. Downs,387,,387,181st District Court,Potter
+,247,,Honorable Janna K. Whatley,343rd District Court,Bee,,,Honorable Karen H. Pozza,388,,388,413th District Court,Johnson
+,248,,Honorable Janelle Haverkamp,235th District Court,Cooke,,,Honorable Stacey L. Mathews,389,,389,418th District Court,Montgomery
+,249,,Honorable April R. Propst,326th District Court,Taylor,,,Honorable Scott H. Jenkins,390,,390,5th Court of Appeals,
+,250,,Honorable Guadalupe Rivera,383rd District Court,El Paso,,,Honorable Marvin L. Moore,391,,391,14th Court of Appeals,
+,251,,Honorable Betsy Lambeth,425th District Court,Williamson,,,Honorable Eli Elmo Garza,392,,392,13th Court of Appeals,
+,252,,Honorable David Evans,95th District Court,Dallas,,,Honorable Barnett Walker,393,,393,1st Court of Appeals,
+,253,,Honorable Monique Diaz,150th District Court,Bexar,,,Honorable Bonnie Rangel,394,,394,12th Court of Appeals,
+,104,,Honorable Karin R. Crump,459th District Court,Travis,,,Honorable Jay Michael (Pat) Phelan,395,,395,7th Court of Appeals,
+,254,,Honorable Vicki Isaacks,271st District Court,Wise,,,Honorable Susan Dolan Reed,396,,396,3rd Court of Appeals,
+,255,,Honorable Benjamin Euresti,107th District Court,Cameron,,,Honorable Craig Smith,397,,397,2nd Court of Appeals,
+,15,,Honorable J. Allan Garrett,33rd District Court,Llano,,,Honorable Patricia O'Cana-Olivarez,398,,398,11th Court of Appeals,
+,256,,Honorable Wesley Hinch,County Court at Law,Liberty,,,Honorable Donald W. Dowd,399,,399,10th Court of Appeals,
+,169,,Honorable Amy Clark-Meachum,261st District Court,Travis,,,Honorable William Edwin Denman,400,,400,8th Court of Appeals,
+,176,,Honorable Antonia Arteaga,57th District Court,Bexar,,,Honorable Baldemar Garza,401,,401,9th Court of Appeals,
+,176,,Honorable Antonia Arteaga,73rd District Court,Bexar,,,Honorable Kerry L. Russell,402,,402,6th Court of Appeals,
+,175,,Honorable Thomas M. Wheeler,326th District Court,Taylor,,,Honorable Christopher G. Morales,403,,403,4th Court of Appeals,
+,257,,Honorable Roy B. Ferguson,394th District Court,Brewster,,,Honorable Daniel Earle Hinde,404,,,,
+,258,,Honorable Craig Towson,43rd District Court,Parker,,,Honorable Julia Argelia Maldonado,405,,,,
+,259,,Honorable Tim Womack,307th District Court,Gregg,,,Honorable Oscar J. Kazen,406,,,,
+,260,,Honorable Don Pierson,County Court at Law No 1,Tarrant,,,Honorable J. D. Langley,407,,,,
+,202,,Honorable JoAnne Garcia,County Court at Law No 3,Hidalgo,,,Honorable Robert E. Cadena,408,,,,
+,261,,Honorable Rosie Alvarado,150th District Court,Bexar,,,Honorable Robert Vargas,409,,,,
+,262,,Honorable Linda A. Rodriguez,57th District Court,Bexar,,,Honorable Thomas Chambers,410,,,,
+,263,,Honorable Toni M. Wallace,Fort Bend County Court,Fort Bend,,,Honorable Enrique Fernandez,411,,,,
+,264,,Honorable Raquel West,252nd District Court,Jefferson,,,Honorable Raymond G. Wheless,412,,,,
+,265,,Honorable O. Kyle Carter,125th District Court,Harris,,,Honorable Hal Ridley,413,,,,
+,266,,Honorable Tina Torres,407th District Court,Bexar,,,Honorable Matthew E. Johnson,414,,,,
+,86,,Honorable Catherine A. Mauzy,250th District Court,Travis,,,Honorable Bonnie J. Robison,415,,,,
+,267,,Honorable David L. Gleason,72nd District Court,Lubbock,,,Honorable Elma T. S. Ender,416,,,,
+,268,,Honorable Mike Hrabal,County Court at Law No 3,Tarrant,,,Honorable Charles L. Chapman,417,,,,
+,269,,Honorable Jennifer Ann Habert,50th District Court,Knox,,,Honorable Janice C. Stone,418,,,,
+,270,,Honorable Andrea Martin Lane,304th District Court,Dallas,,,Honorable Robert (Bobby) E. Bell,419,,,,
+,271,,Honorable Lynn Ellison,218th District Court,Karnes,,,Honorable Stephen Yelenosky,420,,,,
+,266,,Honorable Tina Torres,224th District Court,Bexar,,,Honorable Andrea Lopes James,421,,,,
+,272,,Honorable Javier Alvarez,County Court at Law No 3,El Paso,,,Honorable Sherry Shipman,422,,,,
+,273,,Honorable Laura L. Salinas,166th District Court,Bexar,,,Honorable Todd Wong,423,,,,
+,274,,Honorable John (Will) W. Biard,62nd District Court,Lamar,,,Honorable Douglas R. Woodburn,424,,,,
+,275,,Honorable Bobby L. Rich,County Court at Law #2,Kaufman,,,Honorable William C. Bosworth,425,,,,
+,188,,Honorable Charles E. Montemayor,45th District Court,Bexar,,,Honorable Tracy A. Gilbert,426,,,,
+,276,,Honorable Kali Morgan,505th District Court,Fort Bend,,,Honorable S. Craig Smith,427,,,,
+,277,,Honorable Angela Saucier,76th District Court,Morris,,,Honorable Gerald L. '(Jerry)' Zimmerer,428,,,,
+,206,,Honorable Richard Garcia,73rd District Court,Bexar,,,Honorable Tracy K. Christopher,429,,,,
+,278,,Honorable Benjamin N. Smith,380th District Court,Collin,,,Honorable Aaron Pena,430,,,,
+,279,,Honorable John T. Wooldridge,County Civil Court at Law No 4,Harris,,,Honorable Veronica Rivas-Molloy,431,,,,
+,188,,Honorable Charles E. Montemayor,225th District Court,Bexar,,,Honorable Emily Miskel,432,,,,
+,280,,Honorable Michael Ventura Garcia,Jim Wells County Court,Jim Wells,,,Honorable April Lynn Farris,433,,,,
+,281,,Honorable Steven R. Herod,91st District Court,Eastland,,,Honorable Meagan Hassan,434,,,,
+,282,,Honorable Selena Norah Solis,243rd District Court,El Paso,,,Honorable Bonnie Lee Goldstein,435,,,,
+,283,,Honorable Robert B. Mayfield,County Court at Law No 1,Johnson,,,Honorable Gregory W. Neeley,436,,,,
+,284,,Honorable John Scott Novy,188th District Court,Gregg,,,Honorable Maricela Breedlove,437,,,,
+,285,,Honorable Kim A. Sullivan,Probate Court,Galveston,,,Honorable Brian P. Quinn,438,,,,
+,286,,Honorable David Peeples,98th District Court,Travis,,,Honorable Chari Kelly,439,,,,
+,287,,Honorable Dan Mike Bird,46th District Court,Wilbarger,,,Honorable Dabney Dorsett Bassel,440,,,,
+,174,,Honorable Cleve W. Doty,98th District Court,Travis,,,Honorable J. Wade Birdwell,441,,,,
+,288,,Honorable Jeff Propst,104th District Court,Taylor,,,Honorable John M. Bailey,442,,,,
+,289,,Honorable Hugo Daniel Martinez,County Court at Law No 1,Webb,,,Honorable Edward Stuart Smith,443,,,,
+,290,,Honorable Gary D. Harger,261st District Court,Travis,,,Honorable Steven Lee Smith,444,,,,
+,291,,Honorable Tomasz (Tom) Nowak,366th District Court,Collin,,,Honorable Gisela Triana,445,,,,
+,100,,Honorable Kemper Stephen Williams,135th District Court,Victoria,,,Honorable Cory Lee Carlyle,446,,,,
+,292,,Honorable Brad Morin,71st District Court,Harrison,,,Honorable Dana Womack,447,,,,
+,293,,Honorable Jack Ewing,Court Court at Law No 3,Galveston,,,Honorable Robbie Partida-Kipness,448,,,,
+,294,,Honorable John H. Morris,Cooke County Court,Cooke,,,Honorable Yvonne Rodriguez,449,,,,
+,295,,Honorable Sandra Lee Watts,117th District Court,Nueces,,,Honorable Nancy Elizabeth Kennedy,450,,,,
+,296,,Honorable John F. Shrode,358th District Court,Ector,,,Honorable Kenneth H. Molberg,451,,,,
+,171,,Honorable Russell Wilson,81st District Court,Frio,,,Honorable Amanda Lea Reichek,452,,,,
+,297,,Honorable Gary Lynn Banks,35th District Court,Brown,,,Honorable Erin A. Nowell,453,,,,
+,181,,Honorable Madeleine Connor,459th District Court,Travis,,,Honorable Bonnie Sudderth,454,,,,
+,298,,Honorable Douglas M. Robison,393rd District Court,Denton,,,Honorable W. Scott Golemon,455,,,,
+,299,,Honorable Todd A. Blomerth,250th District Court,Travis,,,Honorable Clarissa Silva,456,,,,
+,300,,Honorable Sandra Peake,257th District Court,Harris,,,Honorable Per Curiam,457,,,,
+,301,,Honorable John P. Chupp,141st District Court,Tarrant,,,Honorable Judy Crowder Parker,458,,,,
+,302,,Honorable Walden Shelton,37th District Court,Bexar,,,Honorable Brian Keith Walker,459,,,,
+,53,,Honorable Jessica Lauren Mangrum,126th District Court,Travis,,,Honorable Scott  E. Stevens,460,,,,
+,303,,Honorable Greg King,County Court at Law No 2,Wichita,,,Honorable William Norman Pedersen,461,,,,
+,304,,Honorable Inna S. Rogoff-Klein,214th District Court,Nueces,,,Honorable William Stacy Trotter,462,,,,
+,305,,Honorable Sara Maynard,County Court at Law No 2,Smith,,,Honorable Matthew E. Johnson,463,,,,
+,306,,Honorable David Glenn Rogers,142nd District Court,Midland,,,Honorable D. Michael Wallach,464,,,,
+,307,,Honorable Stephanie S. Bascon,274th District Court,Comal,,,Honorable Tom W. Gray,465,,,,
+,308,,Honorable Dwight E. Peschel,207th District Court,Hays,,,Honorable Charles Spain,466,,,,
+,309,,Honorable William (Billy) R. Eichman,364th District Court,Lubbock,,,Honorable Rosa Lopez Theofanis,467,,,,
+,195,,Honorable Elizabeth H. Beach,Criminal District Court 1,Tarrant,,,Honorable Dori Contreras,468,,,,
+,310,,Honorable Noe Gonzalez,370th District Court,Hidalgo,,,Honorable Lawrence M. Doss,469,,,,
+,261,,Honorable Rosie Alvarado,438th District Court,Bexar,,,Honorable Daymon Jeffrey Rambin,470,,,,
+,311,,Honorable Nicole Garza,131st District Court,Bexar,,,Honorable Charles Van Cleef,471,,,,
+,312,,Honorable Christi J. Kennedy,114th District Court,Smith,,,Honorable Beth Watkins,472,,,,
+,313,,Honorable Lawrence David Weiman,80th District Court,Harris,,,"Honorable Margaret ""Meg"" Poissant",473,,,,
+,314,,Honorable Maria Cantú Hexsel,261st District Court,Travis,,,Honorable Sarah Beth Landau,474,,,,
+,314,,Honorable Maria Cantú Hexsel,53rd District Court,Travis,,,Honorable Alex L Yarbrough,475,,,,
+,315,,Honorable Jack William Pulcher,105th District Court,Nueces,,,Honorable Elizabeth Sturdivant Kerr,476,,,,
+,316,,Honorable Graham Quisenberry,415TH DISTRICT COURT,Parker,,,Honorable Luz Elena D Chapa,477,,,,
+,59,,Honorable Carson Campbell,21st District Court,Burleson,,,Honorable Jim Wright,478,,,,
+,317,,Honorable Rick J. Kennon,368th District Court,Williamson,,,Honorable Randy Wilson,479,,,,
+,83,,Honorable Lora J. Livingston,200th District Court,Travis,,,Honorable Leanne Johnson,480,,,,
+,318,,Honorable Sid L. Harle,408th District Court,Bexar,,,Honorable W. Bruce Williams,481,,,,
+,319,,Honorable Dustin Mark Howell,98th District Court,Travis,,,Honorable Frances Bourliot,482,,,,
+,320,,Honorable Gary Coley,74th District Court,McLennan,,,Honorable Lisa J. Soto,483,,,,
+,321,,Honorable Robert A. Perkins,County Court at Law No 6,El Paso,,,Honorable Jaime Eduardo Tijerina,484,,,,
+,322,,Honorable Wesley R. Ward,234th District Court,Harris,,,Honorable Kathleene Dennise Garcia,485,,,,
+,324,,Honorable Mary Catherine Brown,305th District Court,Dallas,,,Honorable Lori Irene Valenzuela,486,,,,
+,325,,Honorable Robert L. Rolnick,458th District Court,Fort Bend,,,Honorable Nora L. Longoria,487,,,,
+,311,,Honorable Nicole Garza,73rd District Court,Bexar,,,Honorable Thomas John Baker,488,,,,
+,326,,Honorable Gloria M. Rincones,404th District Court,Cameron,,,Honorable Irene Rios,489,,,,
+,327,,Honorable James Harold Shoemake,434th District Court,Fort Bend,,,Honorable Amparo Monique Guerra,490,,,,
+,328,,Honorable Brendan J. Doran,Anderson County Court,Anderson,,,Honorable Richard F. Hightower,491,,,,
+,329,,Honorable John Franklin Phillips,274th District Court,Hays,,,Honorable Peter Michael Kelly,492,,,,
+,330,,Honorable Mark Morefield,75th District Court,Liberty,,,Honorable Liza Ann Rodriguez,493,,,,
+,331,,Honorable Michael J. Wood,Probate Court No 2,Harris,,,Honorable Kenneth Price Wise,494,,,,
+,332,,Honorable Kimberly Lemons Allen,69th District Court,Dallam,,,Honorable Kevin D. Jewell,495,,,,
+,333,,Honorable Robert K. Schaffer,152nd District Court,Harris,,,Honorable Nora Longoria,496,,,,
+,188,,Honorable Charles E. Montemayor,73rd District Court,Bexar,,,Honorable Julie Countiss,497,,,,
+,334,,Honorable Glen H. Devlin,313th District Court,Harris,,,Honorable Darlene Byrne,498,,,,
+,335,,Honorable Lauren Reeder,234th District Court,Harris,,,Honorable Jay M. Wright,499,,,,
+,336,,Honorable James M. Rush,244th District Court,Ector,,,Honorable Gina  M.  Palafox,500,,,,
+,337,,Honorable Sandra Jackson,302nd District Court,Dallas,,,Honorable J. Woodfin 'Woodie' Jones,501,,,,
+,326,,Honorable Gloria M. Rincones,445th District Court,Cameron,,,Honorable Gordon Goodman,502,,,,
+,338,,Honorable Carter Thompson,Criminal District Court 5 of Dallas County,Dallas,,,Honorable Brian Hoyle,503,,,,
+,339,,Honorable Jerald Dean Fowler,115th District Court,Upshur,,,Honorable Georgina M. Benavides,504,,,,
+,340,,Honorable H. D. Black,13th District Court,Navarro,,,Honorable Patricia O'Connell Alvarez,505,,,,
+,341,,Honorable Monica Z. Notzon,49th District Court,Webb,,,Honorable Bill Bass,506,,,,
+,20,,Honorable Maya Guerra Gamble,126th District Court,Travis,,,Honorable James T. Worthen,507,,,,
+,342,,Honorable John W. Smith,161st District Court,Ector,,,Honorable N. Terry Adams,508,,,,
+,131,,Honorable Kimberly S. Burley,224th District Court,Bexar,,,Honorable Hollis  Horton,509,,,,
+,343,,Honorable William R. Burke,189th District Court,Harris,,,Honorable E. Lee Gabriel,510,,,,
+,344,,Honorable Christopher W. Ponder,Probate Court No 1,Tarrant,,,Honorable Barbara E. Rosenberg,511,,,,
+,345,,Honorable Kristin Bays,284th District Court,Montgomery,,,Honorable Robert D. Burns,512,,,,
+,174,,Honorable Cleve W. Doty,455th District Court,Travis,,,Honorable Rebeca C. Martinez,513,,,,
+,85,,Honorable William D. Old,25th District Court,Guadalupe,,,Honorable Jeffrey S. Alley,514,,,,
+,266,,Honorable Tina Torres,285th District Court,Bexar,,,Honorable Sandee Bryan Marion,515,,,,
+,346,,Honorable Donna S. Rayes,73rd District Court,Bexar,,,Honorable Lana Rolf Myers,516,,,,
+,347,,Honorable Dena Fisher,315th District Court,Harris,,,Honorable David E. Puryear,517,,,,
+,267,,Honorable David L. Gleason,108th District Court,Potter,,,Honorable Jeffrey L. Rose,518,,,,
+,131,,Honorable Kimberly S. Burley,73rd District Court,Bexar,,,Honorable Carolyn I. Wright,519,,,,
+,348,,Honorable George B. Flint,401st District Court,Collin,,,Honorable Leslie Lester Osborne,520,,,,
+,349,,Honorable Joe Fauth,Grimes County Court,Grimes,,,Honorable Leticia Hinojosa,521,,,,
+,261,,Honorable Rosie Alvarado,45th District Court,Bexar,,,Honorable Josh R. Morriss,522,,,,
+,350,,Honorable Judith G. Wells,325th District Court,Tarrant,,,Honorable David J. Schenck,523,,,,
+,351,,Honorable Lisa Andrews,Harrison County Court,Harrison,,,Honorable Sherry Radack,524,,,,
+,20,,Honorable Maya Guerra Gamble,345th District Court,Travis,,,Honorable Melissa Young Goodwin,525,,,,
+,352,,Honorable Amado Jose Abascal,365th District Court,Maverick,,,,,,,,
+,353,,Honorable Joe M. Black,County Court At Law,Harrison,,,,,,,,
+,354,,Honorable Maribel Flores,293rd District Court,Dimmit,,,,,,,,
+,299,,Honorable Todd A. Blomerth,345th District Court,Travis,,,,,,,,
+,355,,Honorable Juli Mathew,County Court at Law #4,Fort Bend,,,,,,,,
+,356,,Honorable Barbara Lane Walther,51st District Court,Irion,,,,,,,,
+,86,,Honorable Catherine A. Mauzy,200th District Court,Travis,,,,,,,,
+,273,,Honorable Laura L. Salinas,131st District Court,Bexar,,,,,,,,
+,357,,Honorable Gary L. Steel,274th District Court,Guadalupe,,,,,,,,
+,358,,Honorable Susan G. Lowery,County Court at Law No 3,Fort Bend,,,,,,,,
+,359,,Honorable Nancy Cutler Mulder,Criminal District Court 6,Dallas,,,,,,,,
+,360,,Honorable Juanita Pavlick,90th District Court,Stephens,,,,,,,,
+,192,,Honorable Pedro (Pete) Gomez,112th District Court,Pecos,,,,,,,,
+,361,,Honorable Steve J. Duskie,426th District Court,Bell,,,,,,,,
+,192,,Honorable Pedro (Pete) Gomez,112th District Court,Upton,,,,,,,,
+,362,,Honorable James W. Locke,County Court at Law No 2,Brazos,,,,,,,,
+,12,,Honorable Jan Soifer,53rd District Court,Travis,,,,,,,,
+,363,,Honorable Caroline E. Baker,295th District Court,Harris,,,,,,,,
+,364,,Honorable Walter G. Armatys,328th District Court,Fort Bend,,,,,,,,
+,365,,Honorable Kerri M. Foley,County Court at Law No 2,Galveston,,,,,,,,
+,366,,Honorable Reva L. Towslee Corbett,335th District Court,Burleson,,,,,,,,
+,203,,Honorable Bryan (Rusty) F. Russ,82nd District Court,Falls,,,,,,,,
+,367,,Honorable Ann-Marie Carruth,72nd District Court,Lubbock,,,,,,,,
+,368,,Honorable Steven E. Kirkland,334th District Court,Harris,,,,,,,,
+,369,,Honorable Robert Bruce McFarling,362nd District Court,Denton,,,,,,,,
+,210,,Honorable Eric Shepperd,County Court at Law No 2,Travis,,,,,,,,
+,370,,Honorable Lesley Briones,County Civil Court at Law No 4,Harris,,,,,,,,
+,371,,Honorable William (Bill) McLeod,County Civil Court at Law No 4,Harris,,,,,,,,
+,104,,Honorable Karin R. Crump,353rd District Court,Travis,,,,,,,,
+,372,,Honorable Phil A. Grant,9th District Court,Montgomery,,,,,,,,
+,373,,Honorable Jim Meyer,170th District Court,McLennan,,,,,,,,
+,374,,Honorable Michael Barry Newman,Probate Court No 2,Harris,,,,,,,,
+,375,,Honorable Keno Vasquez,398th District Court,Hidalgo,,,,,,,,
+,376,,Honorable Mario Efrain Ramirez,332nd District Court,Hidalgo,,,,,,,,
+,377,,Honorable Thomas Nathaniel Stuckey,421st District Court,Caldwell,,,,,,,,
+,266,,Honorable Tina Torres,150th District Court,Bexar,,,,,,,,
+,378,,Honorable Matt Hand,County Court at Law No 2,Potter,,,,,,,,
+,379,,Honorable Angela Michelle Tucker,199th District Court,Collin,,,,,,,,
+,380,,Honorable Cynthia McCrann Wheless,417th District Court,Collin,,,,,,,,
+,382,,Honorable Douglas H. Freitag,140th District Court,Lubbock,,,,,,,,
+,383,,Honorable Charles Butler,336th District Court,Fannin,,,,,,,,
+,384,,Honorable Shaun Carpenter,220th District Court,Hamilton,,,,,,,,
+,83,,Honorable Lora J. Livingston,201st District Court,Travis,,,,,,,,
+,54,,Honorable Brock R. Smith,271st District Court,Jack,,,,,,,,
+,385,,Honorable LaShawn A. Williams,County Civil Court at Law No 3,Harris,,,,,,,,
+,386,,Honorable William Stephen Ellis,35th District Court,Mills,,,,,,,,
+,387,,Honorable Beauford K. Downs,77th District Court,Limestone,,,,,,,,
+,388,,Honorable Karen H. Pozza,49th District Court,Webb,,,,,,,,
+,198,,Honorable Aaron Haas,45th District Court,Bexar,,,,,,,,
+,97,,Honorable Albert D. Pattillo,216th District Court,Kerr,,,,,,,,
+,131,,Honorable Kimberly S. Burley,150th District Court,Bexar,,,,,,,,
+,389,,Honorable Stacey L. Mathews,224th District Court,Bexar,,,,,,,,
+,390,,Honorable Scott H. Jenkins,98th District Court,Travis,,,,,,,,
+,391,,Honorable Marvin L. Moore,County Court at Law No 2,Midland,,,,,,,,
+,392,,Honorable Eli Elmo Garza,377th District Court,Victoria,,,,,,,,
+,393,,Honorable Barnett Walker,County Court at Law No 2,Collin,,,,,,,,
+,394,,Honorable Bonnie Rangel,171st District Court,El Paso,,,,,,,,
+,395,,Honorable Jay Michael (Pat) Phelan,286th District Court,Hockley,,,,,,,,
+,390,,Honorable Scott H. Jenkins,53rd District Court,Travis,,,,,,,,
+,396,,Honorable Susan Dolan Reed,37th District Court,Bexar,,,,,,,,
+,215,,Honorable Scot Gibbons Dollinger,180th District Court,Harris,,,,,,,,
+,188,,Honorable Charles E. Montemayor,408th District Court,Bexar,,,,,,,,
+,232,,Honorable Evan Clay Stubbs,33rd District Court,Blanco,,,,,,,,
+,397,,Honorable Craig Smith,192nd District Court,Dallas,,,,,,,,
+,131,,Honorable Kimberly S. Burley,37th District Court,Bexar,,,,,,,,
+,398,,Honorable Patricia O'Cana-Olivarez,Hidalgo County Court at Law No. 9,Hidalgo,,,,,,,,
+,277,,Honorable Angela Saucier,76th District Court,Camp,,,,,,,,
+,20,,Honorable Maya Guerra Gamble,201st District Court,Travis,,,,,,,,
+,399,,Honorable Donald W. Dowd,Cass County Court,Cass,,,,,,,,
+,400,,Honorable William Edwin Denman,412th Distric Court,Brazoria,,,,,,,,
+,401,,Honorable Baldemar Garza,229th District Court,Starr,,,,,,,,
+,34,,Honorable Paula Rosales,County Court at Law No 5,Dallas,,,,,,,,
+,402,,Honorable Kerry L. Russell,7th District Court,Smith,,,,,,,,
+,403,,Honorable Christopher G. Morales,County Court at Law No 1,Fort Bend,,,,,,,,
+,404,,Honorable Daniel Earle Hinde,269th District Court,Harris,,,,,,,,
+,405,,Honorable Julia Argelia Maldonado,507th District Court,Harris,,,,,,,,
+,37,,Honorable Jeff Steinhauser,155th District Court,Austin,,,,,,,,
+,406,,Honorable Oscar J. Kazen,Probate Court No 1,Bexar,,,,,,,,
+,21,,Honorable Hal R. Ridley,278th District Court,Madison,,,,,,,,
+,131,,Honorable Kimberly S. Burley,408th District Court,Bexar,,,,,,,,
+,407,,Honorable J. D. Langley,361st District Court,Brazos,,,,,,,,
+,408,,Honorable Robert E. Cadena,County Court at Law,Reeves,,,,,,,,
+,409,,Honorable Robert Vargas,County Court at Law No 1,Nueces,,,,,,,,
+,262,,Honorable Linda A. Rodriguez,37th District Court,Bexar,,,,,,,,
+,410,,Honorable Thomas Chambers,253rd District Court,Liberty,,,,,,,,
+,273,,Honorable Laura L. Salinas,224th District Court,Bexar,,,,,,,,
+,411,,Honorable Enrique Fernandez,63rd District Court,Val Verde,,,,,,,,
+,253,,Honorable Monique Diaz,438th District Court,Bexar,,,,,,,,
+,412,,Honorable Raymond G. Wheless,366th District Court,Collin,,,,,,,,
+,413,,Honorable Hal Ridley,278th District Court,Madison,,,,,,,,
+,413,,Honorable Hal Ridley,278th District Court,Walker,,,,,,,,
+,414,,Honorable Matthew E. Johnson,54th District Court,McLennan,,,,,,,,
+,415,,Honorable Bonnie J. Robison,Probate Court,Denton,,,,,,,,
+,416,,Honorable Elma T. S. Ender,341st District Court,Webb,,,,,,,,
+,417,,Honorable Charles L. Chapman,51st District Court,Tom Green,,,,,,,,
+,418,,Honorable Janice C. Stone,County Court at Law,Cherokee,,,,,,,,
+,419,,Honorable Robert (Bobby) E. Bell,267th District Court,De Witt,,,,,,,,
+,420,,Honorable Stephen Yelenosky,353rd District Court,Travis,,,,,,,,
+,421,,Honorable Andrea Lopes James,272nd District Court,Brazos,,,,,,,,
+,188,,Honorable Charles E. Montemayor,288th District Court,Bexar,,,,,,,,
+,422,,Honorable Sherry Shipman,211th District Court,Denton,,,,,,,,
+,423,,Honorable Todd Wong,County Court at Law No 1,Travis,,,,,,,,
+,408,,Honorable Robert E. Cadena,83rd District Court,Pecos,,,,,,,,
+,104,,Honorable Karin R. Crump,126th District Court,Travis,,,,,,,,
+,424,,Honorable Douglas R. Woodburn,181st District Court,Potter,,,,,,,,
+,319,,Honorable Dustin Mark Howell,345th District Court,Travis,,,,,,,,
+,425,,Honorable William C. Bosworth,413th District Court,Johnson,,,,,,,,
+,426,,Honorable Tracy A. Gilbert,418th District Court,Montgomery,,,,,,,,
